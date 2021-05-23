@@ -1,0 +1,5 @@
+{
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.printWidth": 150
+}
